@@ -163,3 +163,9 @@ I'd also like to thank <a href="http://virustotal.com" target="new">VirusTotal.c
 ###Contact
 
 To provide any feedback or ask any questions please reach out to Andrew Hay on Twitter at <a href="http://twitter.com/andrewsmhay" target="new">@andrewsmhay</a>.
+
+
+<!---
+#CPTAGS:community-unsupported audit integration automation
+-->
+
